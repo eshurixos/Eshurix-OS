@@ -1,0 +1,13 @@
+# <type>: <short summary>
+#
+# Types:
+# feat     - New feature
+# fix      - Bug fix
+# docs     - Documentation
+# style    - Formatting
+# refactor - Code improvement
+# test     - Tests
+# chore    - Maintenance
+#
+# Example:
+# feat: add authentication service
